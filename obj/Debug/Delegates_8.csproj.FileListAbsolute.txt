@@ -1,0 +1,7 @@
+D:\C# Assignments\Delegates_8\bin\Debug\Delegates_8.exe.config
+D:\C# Assignments\Delegates_8\bin\Debug\Delegates_8.exe
+D:\C# Assignments\Delegates_8\bin\Debug\Delegates_8.pdb
+D:\C# Assignments\Delegates_8\obj\Debug\Delegates_8.csprojAssemblyReference.cache
+D:\C# Assignments\Delegates_8\obj\Debug\Delegates_8.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Delegates_8\obj\Debug\Delegates_8.exe
+D:\C# Assignments\Delegates_8\obj\Debug\Delegates_8.pdb
